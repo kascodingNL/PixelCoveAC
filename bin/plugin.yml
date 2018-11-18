@@ -1,0 +1,5 @@
+name: PixelAntiCheat
+main: nl.kasnetwork.plugins
+description: The AntiCheat custom made for PixelCove, made by tha YTER Ikasdefixer!
+version: 3.0
+depend: [AntiCheatAPI]
