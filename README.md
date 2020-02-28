@@ -4,6 +4,5 @@ How to correctly listen for events,
 The checks are also dawgshit.
 
 Also don't use this as example as it uses
-A external API and the API isn't
-That good, writing an custom base
-Is pretty easy.
+an external API and the API isn't
+that good, writing an custom base is pretty easy.
