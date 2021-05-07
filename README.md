@@ -1,7 +1,5 @@
-This is by no means a serious anticheat, 
-And was developed when I didn't even know 
-How to correctly listen for events,
-The checks are also dawgshit.
+Okay this is really really crap.
+Do not use this in ANY case.
 
 Also don't use this as example as it uses
 an external API and the API isn't
