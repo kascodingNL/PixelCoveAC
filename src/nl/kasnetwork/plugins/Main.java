@@ -3,14 +3,6 @@ package nl.kasnetwork.plugins;
 
 import java.io.IOException;
 
-/////////////////////////////////
-//Don't change above this      //
-//                            //
-//                           //
-//All rights go to		    //
-//IkasCoding			   //
-////////////////////////////
-
 import org.bukkit.Bukkit;
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.plugin.java.JavaPlugin;
