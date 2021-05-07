@@ -19,35 +19,16 @@ import net.horizoncode.anticheat.AntiCheatAPI;
 import net.horizoncode.anticheat.checkbase.CheckManager;
 
 public class Main extends JavaPlugin {
-	/////////////////////////////////////////////////////
-	//YOU ARE NOT ALLOWED TO DECOMPILE THIS CODE!!!!  //
-	//I WILL FIND YOU IF YOU RERELEASE THIS CODE!!!! //
-	//OR IF YOU PUBLISH IT!							//
-	/////////////////////////////////////////////////
-	
-//////////////////////////////////
-//Don't change above this      //
-//							  //
-//							 //
-//All rights go to		    //
-//IkasCoding			   //
-////////////////////////////
 	
 	
 	@SuppressWarnings("unused")
 	public void onEnable() {
-		
-		///////////////////////////////////////
-		//Metrics Initialize and Implementor//
-		/////////////////////////////////////
+	
 		
 		try {
 			Metrics metrics = new Metrics(this);
 			metrics.start();
 		} catch (IOException e) {
-			 /////////////////////////////////////////////////////
-			//Failed to submit the statistics if this is executed xD//
-		   /////////////////////////////////////////////////////
 		}
 		
 		
